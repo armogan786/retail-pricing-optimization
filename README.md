@@ -25,7 +25,6 @@ elastic: realigning its price down is projected to lift category revenue ~21%.
 - `elasticity_by_category.csv` — elasticity estimates and significance by category
 - `pricing_scenario_impact.csv` — projected revenue impact of price realignment
 - `Pricing_Optimization_Memo.docx` — one-page executive recommendation memo
-- `PowerBI_Build_Guide.md` — instructions to build the accompanying dashboard
 - `scripts/` — full analysis pipeline in Python (pandas, statsmodels)
 
 ## Data source
